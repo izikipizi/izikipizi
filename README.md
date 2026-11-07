@@ -2,6 +2,12 @@
 
 I build [Nizlo](https://nizlo.com/), a Windows-first remote monitoring and management platform for MSPs and lean IT teams.
 
+## Open integrations
+
+- [Nizlo n8n community node](https://github.com/izikipizi/n8n-nodes-nizlo) — a source-available, read-only integration for retrieving customers, sites, endpoints, and alerts with a tenant-scoped personal access token. The repository includes two inactive, credential-free starter workflows and deliberately exposes no script, patch, reboot, remote-access, write, or token-management operation.
+- [Nizlo RMM API](https://nizlo.com/rmm-api?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_api) — authentication, endpoint, pagination, filtering, and operational-boundary documentation for customer-owned integrations.
+- [RMM API integration preflight checklist](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-api-integration-preflight-checklist.html?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_api_preflight) — 18 vendor-neutral checks for identity, tenant isolation, data handling, rate limits, retries, webhooks, audit evidence, rollback, and production ownership.
+
 ## Open MSP operations resources
 
 - [Nizlo MSP Operations Resources](https://izikipizi.github.io/nizlo-msp-operations-resources/) — free, ungated checklists, worksheets, templates, and calculators for MSP operations.
