@@ -2,6 +2,10 @@
 
 I build [Nizlo](https://nizlo.com/), a Windows-first remote monitoring and management platform for MSPs and lean IT teams.
 
+## Published writing
+
+- [Patch Counts Do Not Prove Exposure Closure](https://www.cybersecurity-insiders.com/patch-counts-do-not-prove-exposure-closure/) — a vendor-neutral Cybersecurity Insiders article on inventory freshness, verified patch completion, exposure age, exception debt, and regression evidence. Published November 16, 2026 with my Nizlo founder relationship disclosed.
+
 ## Open integrations
 
 - [Nizlo n8n community node](https://github.com/izikipizi/n8n-nodes-nizlo) — a source-available, read-only integration for retrieving customers, sites, endpoints, and alerts with a tenant-scoped personal access token. The repository includes two inactive, credential-free starter workflows and deliberately exposes no script, patch, reboot, remote-access, write, or token-management operation.
