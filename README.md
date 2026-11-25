@@ -4,6 +4,8 @@ I build [Nizlo](https://nizlo.com/), a Windows-first remote monitoring and manag
 
 ## Published writing
 
+- [The First 15 Minutes After an RMM Endpoint Disappears](https://www.techwrix.com/the-first-15-minutes-after-an-rmm-endpoint-disappears/) — a Techwrix triage sequence for separating service, identity, network, and console visibility problems before reinstalling an agent.
+- [When to Pause the Next Update Ring](https://cybersecurityunderpressure.com/analysis-when-to-pause-next-update-ring) — a Cybersecurity Under Pressure article on using an actual business transaction to decide whether a Windows patch rollout should advance.
 - [Patch Counts Do Not Prove Exposure Closure](https://www.cybersecurity-insiders.com/patch-counts-do-not-prove-exposure-closure/) — a vendor-neutral Cybersecurity Insiders article on inventory freshness, verified patch completion, exposure age, exception debt, and regression evidence. Published November 16, 2026 with my Nizlo founder relationship disclosed.
 
 ## Open integrations
@@ -15,6 +17,7 @@ I build [Nizlo](https://nizlo.com/), a Windows-first remote monitoring and manag
 ## Open MSP operations resources
 
 - [Nizlo MSP Operations Resources](https://izikipizi.github.io/nizlo-msp-operations-resources/) — free, ungated checklists, worksheets, templates, and calculators for MSP operations.
+- [RMM Pricing Transparency Dataset](https://izikipizi.github.io/nizlo-msp-operations-resources/public-rmm-pricing-dataset.html?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_pricing_transparency) — a source-dated comparison of public pricing for 14 RMM products, including Nizlo, with a downloadable CSV and fleet-size scenarios.
 - [Interactive RMM Evaluation Scorecard](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-evaluation-scorecard-template.html?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_evaluation_scorecard) — set ten criteria weights, score vendors on a consistent 0–2 scale, see live completion and weighted results, flag critical zeroes, and download the completed comparison as CSV without creating an account.
 - [14-Day RMM Trial Pilot Plan](https://nizlo.com/solutions/rmm-free-trial?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_free_trial&utm_content=pilot_plan) — test one authorized, noncritical endpoint first; verify enrollment, inventory, monitoring, alerts, patch visibility, a harmless script, authorized remote support, reporting, and clean agent removal without entering a card or triggering an automatic paid conversion. Nizlo does not offer a permanently free RMM plan.
 - [RMM Checkout and Billing Readiness Checklist](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-checkout-billing-readiness-checklist.html?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_checkout_readiness) — verify the billing unit, selected plan, exact trial and first-charge dates, add-ons, payment authority, invoices, renewal, cancellation, and operational approval across 16 evidence gates; includes a public CSV and a contextual [RMM pricing-model guide](https://nizlo.com/guides/rmm-pricing-models?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_checkout_readiness).
