@@ -1,6 +1,6 @@
 # Kip Ecklund
 
-I build [Nizlo](https://nizlo.com/), a Windows-first remote monitoring and management platform for MSPs and lean IT teams.
+I build [Nizlo](https://nizlo.com/?utm_source=github&utm_medium=founder_profile&utm_campaign=brand_home&utm_content=profile_intro), a Windows-first remote monitoring and management platform for MSPs and lean IT teams.
 
 ## Published writing
 
