@@ -4,6 +4,7 @@ I build [Nizlo](https://nizlo.com/?utm_source=github&utm_medium=founder_profile&
 
 ## Published writing
 
+- [The First 30 Minutes After Installing an RMM Agent](https://www.technovice.net/post/rmm-agent-security-first-30-minutes) — a TechNovice field guide to verifying installer provenance, enrollment, permissions, alerts, and clean removal on one authorized pilot endpoint.
 - [The First 15 Minutes After an RMM Endpoint Disappears](https://www.techwrix.com/the-first-15-minutes-after-an-rmm-endpoint-disappears/) — a Techwrix triage sequence for separating service, identity, network, and console visibility problems before reinstalling an agent.
 - [When to Pause the Next Update Ring](https://cybersecurityunderpressure.com/analysis-when-to-pause-next-update-ring) — a Cybersecurity Under Pressure article on using an actual business transaction to decide whether a Windows patch rollout should advance.
 - [Patch Counts Do Not Prove Exposure Closure](https://www.cybersecurity-insiders.com/patch-counts-do-not-prove-exposure-closure/) — a vendor-neutral Cybersecurity Insiders article on inventory freshness, verified patch completion, exposure age, exception debt, and regression evidence. Published November 16, 2026 with my Nizlo founder relationship disclosed.
