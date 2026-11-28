@@ -4,6 +4,7 @@ I build [Nizlo](https://nizlo.com/?utm_source=github&utm_medium=founder_profile&
 
 ## Published writing
 
+- [The RMM Boundary Register Every MSP Should Keep](https://msp-channel.com/blogs/24996-the-rmm-boundary-register-every-msp-should-keep) — an MSP Channel Insights article about recording who approved technician access, what it covers, and when to review it. The [technician access review matrix](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-technician-access-review-matrix.html?utm_source=github&utm_medium=founder_profile&utm_campaign=rmm_boundary_register&utm_content=publisher_byline) provides a worksheet for applying those checks.
 - [The First 30 Minutes After Installing an RMM Agent](https://www.technovice.net/post/rmm-agent-security-first-30-minutes) — a TechNovice field guide to verifying installer provenance, enrollment, permissions, alerts, and clean removal on one authorized pilot endpoint.
 - [The First 15 Minutes After an RMM Endpoint Disappears](https://www.techwrix.com/the-first-15-minutes-after-an-rmm-endpoint-disappears/) — a Techwrix triage sequence for separating service, identity, network, and console visibility problems before reinstalling an agent.
 - [When to Pause the Next Update Ring](https://cybersecurityunderpressure.com/analysis-when-to-pause-next-update-ring) — a Cybersecurity Under Pressure article on using an actual business transaction to decide whether a Windows patch rollout should advance.
